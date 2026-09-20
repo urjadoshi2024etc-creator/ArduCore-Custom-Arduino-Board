@@ -299,7 +299,7 @@ production/bom/
 
 ### BOM
 
-👉 [`ArduCore-BOM.csv`](production/bom/ArduCore.csv)
+👉 [`ArduCore-BOM.csv`](production/bom/ArduCore-BOM.csv)
 
 The BOM is generated from the KiCad schematic so component references, values, and footprints remain synchronized with the design.
 
