@@ -303,8 +303,6 @@ production/bom/
 
 The BOM is generated from the KiCad schematic so component references, values, and footprints remain synchronized with the design.
 
-> **Note:** The BOM file will appear here after the final BOM export.
-
 ---
 
 # 📁 Repository Structure
