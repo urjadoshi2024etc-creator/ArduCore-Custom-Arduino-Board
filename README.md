@@ -317,9 +317,3 @@ This project taught me much more than just making a PCB.
 
 
 ### Build it. Break it. Understand it. Improve it.
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0066FF,100:00D9FF&height=120&section=footer" alt="Animated footer">
-
-</div>
