@@ -214,9 +214,9 @@ production/bom/
 [`ArduCore-BOM.csv`](production/bom/ArduCore-BOM.csv)
 
 ---
-## Grant Budget ($25 B-Tier)
+## Grant Budget ($25 A-Tier)
 
-This project is submitted under the **A-Tier ($120 max)** hardware grant for custom development boards.
+This project is submitted under the **B-Tier ($25 max)** hardware grant for custom development boards.
 
 ### Cost Breakdown
 
