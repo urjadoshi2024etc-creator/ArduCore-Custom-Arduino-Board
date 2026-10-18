@@ -179,41 +179,21 @@ ArduCore does **not** contain a dedicated USB-to-Serial programmer.
 └───────────────────────┘
 ```
 
-### Programming Process
-
-1. Upload the `ArduinoISP` example to another Arduino.
-2. Connect the programmer Arduino to ArduCore.
-3. Connect the ISP signals.
-4. Connect VCC and GND.
-5. Burn the bootloader if required.
-6. Upload the desired firmware.
-
-Detailed instructions:
-
+### Detailed instructions:
 [`Programming ArduCore with Arduino ISP`](documentation/Arduino-ISP.md)
-
----
-
-# ISP Connections
-
-| ArduCore | Programmer Arduino | Function |
-|---|---|---|
-| VCC | VCC | Power |
-| GND | GND | Ground |
-| MOSI | MOSI | SPI data |
-| MISO | MISO | SPI data |
-| SCK | SCK | SPI clock |
-| RESET | RESET | ATmega328P reset |
 
 ---
 
 ## 🎥 Project Demo
 
 Yet to be implemented 
+
 ---
 
 ## Manufacturing
+
 Manufacturing files are available in:
+
 ```bash
 production/gerbers/
 ```
@@ -225,6 +205,7 @@ production/gerbers/
 
 ## Bill of Materials
 The complete component list is maintained in:
+
 ```bash
 production/bom/
 ```
