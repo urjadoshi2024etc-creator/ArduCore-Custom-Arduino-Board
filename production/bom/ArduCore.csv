@@ -1,0 +1,16 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"1OuH";"L_Axial_L6.6mm_D2.7mm_P10.16mm_Horizontal_Vishay_IM-2";1;"10uH_5x5mm_1.0A";;;
+2;"16 MHz (XTAL)";"Crystal_HC49-4H_Vertical";1;"Crystal_16MHz";;;
+3;"100nF, 100nF";"C_Disc_D5.0mm_W2.5mm_P2.50mm";2;"100nF_Ceramic";;;
+4;"330 R";"R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal";1;"330 R";;;
+5;"Atmega328p";"DIP-28_W7.62mm";1;"ATmega328P-P";;;
+6;"C3, C4";"C_Disc_D5.0mm_W2.5mm_P2.50mm";2;"22nF";;;
+7;"C470uF_25V, C470uF_25V";"CP_Radial_D8.0mm_P3.50mm";2;"470uF_25V";;;
+8;"D1";"LED_5mm_PTH_Red_Silk";1;"Red";;;
+9;"J1";"PinHeader_1x07_P2.54mm_Vertical";1;"Conn_01x07_Pin";;;
+10;"J2";"PinSocket_1x14_P2.54mm_Vertical";1;"Conn_01x14_Pin";;;
+11;"J3";"PinSocket_1x08_P2.54mm_Vertical";1;"Conn_01x08_Pin";;;
+12;"J4";"ScrewTerminal_1x02_P3.5mm_Horizontal_Black";1;"Ext_supply";;;
+13;"R1";"R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal";1;"10k";;;
+14;"Reset";"SW_PUSH_6mm";1;"Push_Button";;;
+15;"U2";"TO-220-3_Vertical";1;"AS7805AT-G1";;;
