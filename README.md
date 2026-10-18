@@ -214,6 +214,19 @@ production/bom/
 [`ArduCore-BOM.csv`](production/bom/ArduCore-BOM.csv)
 
 ---
+## Grant Budget ($25 B-Tier)
+
+This project is submitted under the **A-Tier ($120 max)** hardware grant for custom development boards.
+
+### Cost Breakdown
+
+| Item | Description | Estimated Cost |
+| :--- | :--- | :--- |
+| **PCB Fabrication** | Custom 2-layer PCB (5 pcs) via JLCPCB | ~$2.00 |
+| **Shipping & Handling** | Standard global shipping for manufactured PCBs | ~$10.50 |
+| **Component BOM** | ATmega328P-PU, 16 MHz Crystal, 7805 regulator, THT passives, switches, & pin headers | ~$6.50 |
+| **Total Requested** | | **$19.00** |
+
 
 ## Repository Structure
 
